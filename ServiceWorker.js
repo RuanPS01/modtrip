@@ -1,9 +1,9 @@
 const cacheName = "Ruan Patrick-ModTrip-0.2.0";
 const contentToCache = [
-    "Build/0.2.0_ModTrip_WebBuild.loader.js",
-    "Build/0.2.0_ModTrip_WebBuild.framework.js",
-    "Build/0.2.0_ModTrip_WebBuild.data",
-    "Build/0.2.0_ModTrip_WebBuild.wasm",
+    "Build/0.2.1_ModTrip_WebBuild-CropImage.loader.js",
+    "Build/0.2.1_ModTrip_WebBuild-CropImage.framework.js",
+    "Build/0.2.1_ModTrip_WebBuild-CropImage.data",
+    "Build/0.2.1_ModTrip_WebBuild-CropImage.wasm",
     "TemplateData/style.css"
 
 ];
