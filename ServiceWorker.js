@@ -1,9 +1,9 @@
-const cacheName = "Ruan Patrick-ModTrip-0.2.0";
+const cacheName = "Ruan Patrick-ModTrip-0.2.4";
 const contentToCache = [
-    "Build/0.2.1_ModTrip_WebBuild-CropImage.loader.js",
-    "Build/0.2.1_ModTrip_WebBuild-CropImage.framework.js",
-    "Build/0.2.1_ModTrip_WebBuild-CropImage.data",
-    "Build/0.2.1_ModTrip_WebBuild-CropImage.wasm",
+    "Build/0.2.4.1_SicrediEdition.loader.js",
+    "Build/0.2.4.1_SicrediEdition.framework.js",
+    "Build/0.2.4.1_SicrediEdition.data",
+    "Build/0.2.4.1_SicrediEdition.wasm",
     "TemplateData/style.css"
 
 ];
