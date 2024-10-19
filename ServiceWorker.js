@@ -1,9 +1,9 @@
 const cacheName = "Ruan Patrick-ModTrip-0.2.4";
 const contentToCache = [
-    "Build/0.2.4.1_SicrediEdition.loader.js",
-    "Build/0.2.4.1_SicrediEdition.framework.js",
-    "Build/0.2.4.1_SicrediEdition.data",
-    "Build/0.2.4.1_SicrediEdition.wasm",
+    "Build/0.2.4.2_SicrediEdition_NewLogo.loader.js",
+    "Build/0.2.4.2_SicrediEdition_NewLogo.framework.js",
+    "Build/0.2.4.2_SicrediEdition_NewLogo.data",
+    "Build/0.2.4.2_SicrediEdition_NewLogo.wasm",
     "TemplateData/style.css"
 
 ];
