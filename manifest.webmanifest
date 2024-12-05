@@ -1,6 +1,6 @@
 {
-    "name": "ModTrip",
-    "short_name": "ModTrip",
+    "name": "FlowMod",
+    "short_name": "FlowMod",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#000000",

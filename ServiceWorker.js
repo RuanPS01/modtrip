@@ -1,9 +1,9 @@
-const cacheName = "Ruan Patrick-ModTrip-0.2.4";
+const cacheName = "Ruan Patrick-FlowMod-0.2.5";
 const contentToCache = [
-    "Build/0.2.4.2_SicrediEdition_NewLogo.loader.js",
-    "Build/0.2.4.2_SicrediEdition_NewLogo.framework.js",
-    "Build/0.2.4.2_SicrediEdition_NewLogo.data",
-    "Build/0.2.4.2_SicrediEdition_NewLogo.wasm",
+    "Build/0.2.5_SicrediEdition_Firebasse.loader.js",
+    "Build/0.2.5_SicrediEdition_Firebasse.framework.js",
+    "Build/0.2.5_SicrediEdition_Firebasse.data",
+    "Build/0.2.5_SicrediEdition_Firebasse.wasm",
     "TemplateData/style.css"
 
 ];
